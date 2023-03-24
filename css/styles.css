@@ -16,6 +16,10 @@ section {
 	text-decoration: none;
 }
 
+.nolink:hover {
+	color: inherit;
+}
+
 .error {
 	color: red;
 }
